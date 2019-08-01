@@ -1,1 +1,2 @@
 cp filename directoryname
+gahjajjakakalallal
